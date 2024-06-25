@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lequy/OneDrive/Desktop/mlflow-practice/mlruns/0/45ce5981a5da4753ab0d1b9f009fad47/artifacts
+end_time: 1719357965339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45ce5981a5da4753ab0d1b9f009fad47
+run_name: skittish-quail-796
+run_uuid: 45ce5981a5da4753ab0d1b9f009fad47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719357963061
+status: 3
+tags: []
+user_id: lequy
