@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lequy/OneDrive/Desktop/mlflow-practice/mlruns/0/7b29ddf058b04ca48c2c2c528c0f4acd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b29ddf058b04ca48c2c2c528c0f4acd
+run_name: wise-rat-430
+run_uuid: 7b29ddf058b04ca48c2c2c528c0f4acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720141811595
+status: 1
+tags: []
+user_id: lequy
